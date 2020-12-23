@@ -9,7 +9,7 @@
 
 
 ### Connect with me:
-<a href="https://www.myblogeater.com/">https://www.facebook.com/myblogeater
+<a href="https://www.myblogeater.com/">
 <img align="left" alt="devlearning9874 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
   </a>
   <a href="https://www.facebook.com/myblogeater">

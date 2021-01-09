@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like to do many things so i suck at all of them.
-
+- 📝[Resume](https://drive.google.com/file/d/1I2EAhRra_xRiUwkZku-b96BNUgjUxWPG/view?usp=drivesdk)
 
 
 ### Connect with me:
